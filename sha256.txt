@@ -1,0 +1,11 @@
+2018\02\09 ÷‹ŒÂ  9:39:49.93 
+SHA256(.\booka_chs.md)= 40e9f0e06858a39d9547a3b026da262995a2da6df67affbb4c285c062aac2c88
+SHA256(.\booka_cht.md)= 24cc8a8e55963faaf829be9a2eec9ef882ce92f4396a26a00d4f7d2034afd35f
+SHA256(.\createsign.bat)= ec887fa9d9025bad056dcfc2a623facd6ba95a07c7c9037eaa58a8072aaa5960
+SHA256(.\filesha256.bat)= 27022e8a4b9b09306dbe39ce037d99ac7088ae93f7f9527abe0277b8a4e28acf
+SHA256(.\HOME.md)= ec3f4d674eb060aa8e6d8cf650a5eac446ef4782e526c27a325fa4abda455da4
+SHA256(.\LICENSE)= aaa6362fdca87ca8d36c02afadbcadbadd9e7a7955865c4ba66bce8cc67caa0c
+SHA256(.\pub.pem)= 33a268072dab57a56edfac766d20d5bac0ae0af890bd27f9404fb8ffd9a58434
+SHA256(.\README.md)= ec3f4d674eb060aa8e6d8cf650a5eac446ef4782e526c27a325fa4abda455da4
+SHA256(.\sha256.txt)= e2babaee828fe9223aba95e2c54b8a6aa9b68f78a82e88f6a0895dcce643497e
+SHA256(.\verifysign.bat)= 29da0696fa4e3e879e95f2ada692a08f052e37aafffa839048dcf45cb3a036e5

@@ -19,7 +19,7 @@ exit
  
 :chg
 rem 这个是保留空行
-set "line=!line:1=a!"
+rem set "line=!line:1=a!"
 rem 第一个替换。。。路径变成.\
 set "line=!line:%logpath%=.\!"
 echo !line!
